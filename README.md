@@ -146,6 +146,8 @@ if __name__ == "__main__":
     verificar_acceso(20, False)
 ```
 
+<img src="Sintaxis_Python_Castellano.jpg" width="960" alt="Sintaxis de Python en Castellano">
+
 ## 📖 Python - Guía Rápida de Funciones y Conceptos
 
 A continuación, se detalla el glosario completo de sintaxis básica, métodos y estructuras, organizado por tipo de dato y funcionalidad para una lectura rápida.
