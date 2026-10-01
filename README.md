@@ -284,7 +284,7 @@ except FileNotFoundError:
 finally:
     # Esto se ejecuta SIEMPRE, haya ocurrido un error o no
     print("\n--- Operación de lectura/escritura finalizada ---")
+```
 
 
-
-
+# 💡 Nota: Te invito a explorar los archivos del repositorio para clonarlos y ejecutarlos en tu entorno local.
