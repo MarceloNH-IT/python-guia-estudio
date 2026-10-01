@@ -1,2 +1,2 @@
 # python-guia-estudio
-Guía de conceptos python 
+guia practica conceptos de python 
