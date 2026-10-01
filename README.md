@@ -146,6 +146,7 @@ if __name__ == "__main__":
     verificar_acceso(20, False)
 ```
 
+
 <img src="Sintaxis_Python_Castellano.jpg" width="960" alt="Sintaxis de Python en Castellano">
 
 ## 📖 Python - Guía Rápida de Funciones y Conceptos
