@@ -289,7 +289,7 @@ finally:
 
 # 💡 Nota: Te invito a explorar los archivos del repositorio para clonarlos y ejecutarlos en tu entorno local.
 
-![Configuración del Adaptador de Red Puente](FotoNOC.jpg)
+![Configuración del Adaptador de Red Puente](MarceloNoc.jpg)
 ## 🤝 Conclusión y Contacto
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
