@@ -291,7 +291,7 @@ finally:
 
 
 <p align="center">
-  <img src="MarceloNoc.jpg" width="800" alt="Avatar de Marcelo Hernández" style="border-radius: 800%;">
+  <img src="MarceloNoc.jpg" width="600" alt="Avatar de Marcelo Hernández" style="border-radius: 600%;">
 </p>
 ## 🤝 Conclusión y Contacto
 
