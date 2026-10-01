@@ -294,7 +294,7 @@ finally:
 <p align="center">
   <img src="MarceloNoc.jpg" width="600" alt="Avatar de Marcelo Hernández" style="border-radius: 600%;">
 </p>
-## 🤝 Conclusión y Contacto
+# 🤝 Conclusión y Contacto
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
 
