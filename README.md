@@ -289,9 +289,9 @@ finally:
 
 # 💡 Nota: Te invito a explorar los archivos del repositorio para clonarlos y ejecutarlos en tu entorno local.
 
-![Configuración del Adaptador de Red Puente](MarceloNoc.jpg)
+
 <p align="center">
-  <img src="MarceloNoc.jpg" width="600" alt="Avatar de Marcelo Hernández" style="border-radius: 600%;">
+  <img src="MarceloNoc.jpg" width="800" alt="Avatar de Marcelo Hernández" style="border-radius: 800%;">
 </p>
 ## 🤝 Conclusión y Contacto
 
