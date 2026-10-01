@@ -250,47 +250,40 @@ A continuación, se detalla el glosario completo de sintaxis básica, métodos y
 
 (El script 05_glosario.py (Manejo de Archivos y Excepciones)
 
-"""
-Ejemplo práctico de Manejo de Archivos y Excepciones en Python.
+---
 
-Simulamos un sistema que intenta leer y guardar dominios de vehículos.
-"""
+## 💻 Ejemplo de Implementación
 
-def gestionar_dominios():
-    nombre_archivo = "registro_dominios.txt"
-    
-    print("--- Sistema de Consulta de Dominios ---")
-    
-    # 1. MANEJO DE EXCEPCIONES (try / except / finally)
-    try:
-        # Intentamos abrir un archivo en modo lectura ("r") que quizás no exista todavía
-        with open(nombre_archivo, "r") as archivo:
-            contenido = archivo.read()
-            print("\nDominios registrados actualmente:")
-            print(contenido)
-            
-    except FileNotFoundError:
-        # Si ocurre el error "FileNotFoundError" (el archivo no existe), lo capturamos aquí
-        print(f"\n[!] Error: El archivo '{nombre_archivo}' no existe en el sistema.")
-        print("[*] Creando un nuevo archivo de registro...")
+En el archivo `05_glosario.py` de este repositorio se implementa un bloque de manejo de excepciones y archivos para interactuar con el sistema de forma segura:
+
+```python
+print("--- Sistema de Consulta de Dominios ---")
+
+# 1. MANEJO DE EXCEPCIONES (try / except / finally)
+try:
+    # Intentamos abrir un archivo en modo lectura ("r") que quizás no exista todavía
+    with open(nombre_archivo, "r") as archivo:
+        contenido = archivo.read()
+        print("\nDominios registrados actualmente:")
+        print(contenido)
         
-        # 2. MANEJO DE ARCHIVOS (Modo escritura "w")
-        # El bloque 'with' se encarga de aplicar close() automáticamente al terminar
-        with open(nombre_archivo, "w") as archivo:
-            archivo.write("AB123CD\n")
-            archivo.write("EF456GH\n")
-            archivo.write("KSD845\n")
-            
-        print("[+] Archivo creado y dominios de prueba guardados con éxito.")
+except FileNotFoundError:
+    # Si ocurre el error "FileNotFoundError" (el archivo no existe), lo capturamos aquí
+    print(f"\n[!] Error: El archivo '{nombre_archivo}' no existe en el sistema.")
+    print("[*] Creando un nuevo archivo de registro...")
+    
+    # 2. MANEJO DE ARCHIVOS (Modo escritura "w")
+    # El bloque 'with' se encarga de aplicar close() automáticamente al terminar
+    with open(nombre_archivo, "w") as archivo:
+        archivo.write("AB123CD\n")
+        archivo.write("EF456GH\n")
+        archivo.write("KSD845\n")
         
-    finally:
-        # Esto se ejecuta SIEMPRE, haya ocurrido un error o no
-        print("\n--- Operación de lectura/escritura finalizada ---")
-
-
-# Bloque de ejecución principal
-if __name__ == "__main__":
-    gestionar_dominios()
+    print("[+] Archivo creado y dominios de prueba guardados con éxito.")
+    
+finally:
+    # Esto se ejecuta SIEMPRE, haya ocurrido un error o no
+    print("\n--- Operación de lectura/escritura finalizada ---")
 
 
 
