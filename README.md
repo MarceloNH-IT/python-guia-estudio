@@ -149,7 +149,8 @@ if __name__ == "__main__":
 
 <img src="Sintaxis_Python_Castellano.jpg" width="960" alt="Sintaxis de Python en Castellano">
 
-
+![1.jpg](1.jpg)
+![2.jpg](2.jpg)
 ![3.jpg](3.jpg)
 
 ## 📖 Python - Guía Rápida de Funciones y Conceptos
