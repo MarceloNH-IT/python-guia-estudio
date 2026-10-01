@@ -148,9 +148,7 @@ if __name__ == "__main__":
 
 # Sintaxis Python
 ![Sintaxis_Python_Castellano1.jpg](Sintaxis_Python_Castellano1.jpg)
-<p align="center">
-  <img src="Sintaxis_Python_Castellano1.jpg" width="2000" alt="Avatar de Marcelo Hernández" style="border-radius: 2000%;">
-</p>
+
 
 ![1.jpg](1.jpg)
 ![2.jpg](2.jpg)
