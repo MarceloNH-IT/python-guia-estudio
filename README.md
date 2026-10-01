@@ -146,7 +146,7 @@ if __name__ == "__main__":
     verificar_acceso(20, False)
 ```
 
-
+# Sintaxis Python
 ![Sintaxis_Python_Castellano1.jpg](Sintaxis_Python_Castellano1.jpg)
 
 ![1.jpg](1.jpg)
