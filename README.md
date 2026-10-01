@@ -288,3 +288,29 @@ finally:
 
 
 # 💡 Nota: Te invito a explorar los archivos del repositorio para clonarlos y ejecutarlos en tu entorno local.
+
+![Configuración del Adaptador de Red Puente](FotoNOC.jpg)
+## 🤝 Conclusión y Contacto
+
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
+
+* **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) 
+* **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
+* **🚀 GitHub**: [@MarceloNunez-NOC](https://github.com/MarceloNunez-NOC)
+
+---
+
+## 🎯 Conclusión y Proyección Profesional
+
+Agradezco el tiempo de quienes visitan este repositorio. Este proyecto forma parte de mi camino de formación continua en **Python, redes y administración de sistemas**, diseñado para demostrar que puedo estructurar código limpio, documentar procesos y resolver problemas lógicos con un enfoque metódico.
+
+Mi objetivo como profesional de IT es aportar valor mediante el diagnóstico preciso, la automatización de tareas y la documentación clara de incidentes. Los scripts que comparto reflejan mi capacidad de evolucionar desde la lógica básica hacia la resolución de escenarios complejos.
+
+Invito a reclutadores, colegas y referentes del sector a explorar mis repositorios, donde continuo integrando herramientas de redes, infraestructura y programación. Estoy abierto a colaborar y aportar mi experiencia en entornos tecnológicos que valoren la constancia, el orden y la resolución analítica de problemas.
+
